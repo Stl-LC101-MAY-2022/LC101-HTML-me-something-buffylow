@@ -16,13 +16,7 @@ body {
     background-color: gold;
     font-size: 30px;
   }
-  p {
-    margin-top: 50px;
-    margin-bottom: 25px;
-    margin-right: 75px;
-    margin-left: 50px;
-background-color: antiquewhite;
-  }
+  
   #mainHeader {
     background-color: red;
     color: black;
@@ -48,9 +42,11 @@ background-color: antiquewhite;
       text-align:center;
   }
   body {
+
     position: relative;
     min-height: 100%;
     min-height: 100vh;
+    margin:8px 
   }
   footer {
     position: absolute;
