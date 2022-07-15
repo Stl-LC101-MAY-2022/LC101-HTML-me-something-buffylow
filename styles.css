@@ -4,8 +4,9 @@ body {
   }
   
   h1 {
-    color: blueviolet;
+    color: rgb(43, 49, 226);
     margin-left: 20px;
+    font-size: 75px;
   }
 
     .sites {
@@ -13,6 +14,7 @@ body {
     text-align: center;
     padding: 35px;
     background-color: gold;
+    font-size: 35px;
   }
   p {
     margin-top: 50px;
@@ -38,6 +40,6 @@ background-color: antiquewhite;
         color:gold;
         padding: 25px;
         background-color: black;
-        font-size: 26px;
+        font-size: 55px;
       
     }
