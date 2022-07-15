@@ -43,3 +43,16 @@ background-color: antiquewhite;
         font-size: 55px;
       
     }
+    #foot{
+      color:black;
+      text-align:center;
+  }
+  body {
+    position: relative;
+    min-height: 100%;
+    min-height: 100vh;
+  }
+  footer {
+    position: absolute;
+    right: 0;bottom:0;left:0;
+  }
