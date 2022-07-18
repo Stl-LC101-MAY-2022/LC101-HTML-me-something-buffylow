@@ -1,6 +1,8 @@
 
 body {
     background-color: black;
+    margin: 8px;
+    display: block;
   }
   
   h1 {
@@ -19,7 +21,7 @@ body {
   
   #mainHeader {
     background-color: red;
-    color: black;
+    color: red;
     padding: 40px;
     text-align: center;}
 
