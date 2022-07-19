@@ -12,6 +12,12 @@ body {
     padding: 35px;
     background-color: lime
     font-size 45px;
+  }
+  #extra{
+    position: center;
+    color: blue;
+    font-size: 35px;
+
   }  
   #mainHeading {
     background-color:aqua;
@@ -22,8 +28,11 @@ body {
   }
 
     .funParagraph{
-        color:green
+   
+    color: green;
+    background-color: white;   
     }
+    
     #headcolor{
         color:rgb(51, 255, 0);
         padding: 25px;
